@@ -1,0 +1,10 @@
+Test case: 1
+Max revenue: 140
+Test case: 2
+Max revenue: 100
+Test case: 3
+Max revenue: 150
+Test case: 4
+Max revenue: 300
+Test case: 5
+Max revenue: 0

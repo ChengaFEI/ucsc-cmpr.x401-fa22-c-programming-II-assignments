@@ -1,0 +1,10 @@
+The input array is: 
+10 2 3 4 38 90 23 1 10 9 
+
+Search method 1: Exhaustive Search...
+The sum 60 is not found.
+
+Search method 2: Backtracking Search...
+The sorted array is: 
+1 2 3 4 9 10 10 23 38 90 
+The sum 60 is not found.

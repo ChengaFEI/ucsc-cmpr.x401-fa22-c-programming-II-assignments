@@ -1,0 +1,7 @@
+Time complexity analysis:
+
+insert()  -- O(logN) (best-case) / O(N) (worst-case)
+isRoot()  -- O(1)
+isLeaf()  -- O(logN) (best-case) / O(N) (worst-case)
+swap()    -- O(logN) (best-case) / O(N) (worst-case)
+inorder() -- O(N)

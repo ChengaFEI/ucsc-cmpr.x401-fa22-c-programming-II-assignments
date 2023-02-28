@@ -1,0 +1,97 @@
+### C ###
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+main
+main1
+main2
+main3
+main4
+test
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+
+
+### VS Code ###
+# General 
+.vscode
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+
+
+
+### Eclipse ###
+.metadata
+.settings/
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# Uncomment this line if you wish to ignore the project description file.
+# Typically, this file would be tracked if it contains build/dependency configurations:
+.project
+
+
+
+### Mac OS ###
+# General
+.DS_Store
+
+
+
+### Project Specific ###
+# Submission Files
+Submission
+# Peer Works
+PeerWorks
+

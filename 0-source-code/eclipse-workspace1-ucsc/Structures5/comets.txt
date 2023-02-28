@@ -1,0 +1,7 @@
+Oterma	1943	19.43
+Beila	1826	6.6
+Brorsen	1846	5.5
+Olbers	1815	73
+Borrelly 1904	6.8	
+Reinmuth	1928   7.33
+Halley	1705	75.3

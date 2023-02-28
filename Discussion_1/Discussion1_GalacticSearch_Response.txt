@@ -1,0 +1,37 @@
+My algorithm will be based on the linked list containing a structure called Galaxy.
+
+The definition of the structure Galaxy is as follows:
+
+typedef struct Galaxy_t {
+
+   char name[7];
+
+   int x;
+
+   int y;
+
+   int z;
+
+   struct Galaxy_t *next;
+
+} Galaxy;
+
+ 
+
+The structure of my program will be as follows.
+
+1. Open the FILE stream and iteratively read the data into the list of Galaxy structures until EOF.
+
+*** Start the clock here.
+
+2. Traverse the linked list and compute the Cartesian distance between each galaxy and the spaceship's coordinate.
+
+3. If the distance is shorter, copy the data of the current galaxy to a record. If not, continue until you traverse all the Galaxy objects.
+
+*** End the clock here.
+
+4. Log the nearest Galaxy's data and the total time consumed.
+
+ 
+
+The worst-case time complexity will be O(n).

@@ -1,0 +1,115 @@
+Test case 1:
+-----------------------------------------------------------------
+1. Items in the node list:
+Items	Frequency
+d	3
+c	5
+b	2
+a	1
+
+2. Items in the HuffmanTree:
+Item: *, Frequency: 11
+Item: c, Frequency: 5
+Item: *, Frequency: 6
+Item: d, Frequency: 3
+Item: *, Frequency: 3
+Item: a, Frequency: 1
+Item: b, Frequency: 2
+
+3. HuffmanCode of each item character:
+a: 110
+b: 111
+c: 0
+d: 10
+-----------------------------------------------------------------
+
+Test case 2:
+-----------------------------------------------------------------
+1. Items in the node list:
+Items	Frequency
+f	45
+e	16
+d	13
+c	12
+b	9
+a	5
+
+2. Items in the HuffmanTree:
+Item: *, Frequency: 100
+Item: f, Frequency: 45
+Item: *, Frequency: 55
+Item: *, Frequency: 25
+Item: c, Frequency: 12
+Item: d, Frequency: 13
+Item: *, Frequency: 30
+Item: *, Frequency: 14
+Item: a, Frequency: 5
+Item: b, Frequency: 9
+Item: e, Frequency: 16
+
+3. HuffmanCode of each item character:
+a: 1100
+b: 1101
+c: 100
+d: 101
+e: 111
+f: 0
+-----------------------------------------------------------------
+
+Test case 3:
+-----------------------------------------------------------------
+1. Items in the node list:
+Items	Frequency
+f	5
+e	6
+d	10
+c	10
+b	9
+a	50
+
+2. Items in the HuffmanTree:
+Item: *, Frequency: 90
+Item: *, Frequency: 40
+Item: *, Frequency: 19
+Item: b, Frequency: 9
+Item: c, Frequency: 10
+Item: *, Frequency: 21
+Item: d, Frequency: 10
+Item: *, Frequency: 11
+Item: f, Frequency: 5
+Item: e, Frequency: 6
+Item: a, Frequency: 50
+
+3. HuffmanCode of each item character:
+a: 1
+b: 000
+c: 001
+d: 010
+e: 0111
+f: 0110
+-----------------------------------------------------------------
+
+Test case 4:
+-----------------------------------------------------------------
+1. Items in the node list:
+Items	Frequency
+d	10
+c	10
+b	10
+a	10
+
+2. Items in the HuffmanTree:
+Item: *, Frequency: 40
+Item: *, Frequency: 20
+Item: a, Frequency: 10
+Item: d, Frequency: 10
+Item: *, Frequency: 20
+Item: b, Frequency: 10
+Item: c, Frequency: 10
+
+3. HuffmanCode of each item character:
+a: 00
+b: 10
+c: 11
+d: 01
+-----------------------------------------------------------------

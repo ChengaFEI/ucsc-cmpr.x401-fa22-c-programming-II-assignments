@@ -1,0 +1,69 @@
+Prompt: Find the running time of the following functions using the asymptotic notation (O, o, w, Ω, Θ). Show the steps used to find the solution.
+
+
+
+(a)
+
+int func1(int n) 
+{
+     int val = 500;                 // Θ(1)
+     for (int i = 0; i < n; ++i) {  // Θ(n)
+            val += i * 100;         // Θ(1)
+	}
+	return val;                    // Θ(1) 
+}  
+                                
+//   Overall time complexity
+// = Θ(1) + Θ(n*1) + Θ(1)
+// = Θ(n)
+
+
+
+(b)
+
+int func2(int n) 
+{
+     int val1 = 0;                  // Θ(1)
+     for (int i = 0; i < n; ++i) {  // Θ(n)
+          if (n < 50) val1 += 10;   // Θ(1)
+		else val1 = func1(n);     // Θ(n)
+	}
+}
+
+//   Overall time complexity (best-case)
+// = Θ(1) + Θ(n*1)
+// = Θ(n)
+
+//   Overall time complexity (worst-case)
+// = Θ(1) + Θ(n*n)
+// = Θ(n^2)
+
+// So, O(n^2) (worst-case), Ω(n) (best-case)
+
+
+
+(c)
+
+int val2 = 100;                     // Θ(1)
+for (int i = 10; i < n * 10; ++i)   // Θ(n)
+{  
+	val2 = val2 /n;                // Θ(1)
+     for (int j = 0; j < i; ++j) {  // Θ(i)
+		val2 *= j + i;            // Θ(1)
+	} 
+}
+
+//   Overall time complexity of the inner loop
+// = 10 + 11 + ... + (n*10-1)
+// = O(n^2+n)
+// = O(n^2)
+
+//   Overall time complexity
+// = O(1) + O(n*1) + O(n^2)
+// = O(n^2)
+
+
+
+
+
+

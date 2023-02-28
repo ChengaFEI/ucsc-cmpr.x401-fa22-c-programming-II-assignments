@@ -1,0 +1,7 @@
+This problem could be solved with recursive algorithm.
+
+First, we need to define a base case/final step where Sugar Junkie has no valid moves any more (all the directions are either visited, out of the boundary, or occupied by a ghost). Then, in these cases, the recursive algorithm simply returns the score on that box (red-2, blue-3, empty-0).
+
+Then, when Sugar Junkie still has a valid move, we recursively call the same function on each valid direction, add the score on the current box to the maximum accumulative score of all directions, and return it to its last move.
+
+Finally, we will simply get the maximum possible score from the very beginning of the grid.

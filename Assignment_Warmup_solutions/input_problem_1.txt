@@ -1,0 +1,122 @@
+10
+5 
+3
+ALPHA 
+BETA 
+GAMMA 
+A L P H A 
+B O F L A 
+B C P Z T 
+B H H A E
+A T X Y B
+5 
+3 
+ALPHA 
+BETA 
+GAMMA 
+A L P H A 
+B O F L A 
+B C P Z T 
+B H H A E
+A A T E B
+5 
+3
+ALPHA 
+BETA 
+GAMMA 
+A L P H A 
+B O F L A 
+B C P Z T 
+B H H A E
+A G A M M
+5 
+3
+ALPHA 
+BETA 
+GAMMA 
+A L P H A 
+B O F L A 
+B C P Z T 
+B H H A E
+G A M M A
+5 
+3
+ALPHA 
+BETA 
+GAMMA 
+G L P H A 
+B A F M L 
+B C M Z P 
+B A H M H
+G A M M A
+5 
+3
+ALPHA 
+BETA 
+GAMMA 
+A L P H A 
+B M F M L 
+E C M Z P 
+T A H A H
+A M M A G
+10 
+3
+ALPHA 
+BETA 
+GAMMA 
+A L P H A A L P H A 
+B O F L A A L P H A 
+B C P Z T A L P H A 
+B H H A E B H H A E
+A A T E B A L P H A 
+A L P H A A L P H A 
+B O F L A A L P H A 
+B C P Z T A L P H A 
+B H H A E B H H A E
+A A T E B A L P H A 
+10 
+3
+ALPHA 
+BETA 
+GAMMA 
+A L P H A A L B H A 
+B O F L A A L E H A 
+B C P Z T A L T H A 
+G A M M A B H A A E
+A A T E B A L P H A 
+A L P H A A L P H A 
+B O F L A A L P H A 
+B E P Z T A L P H A 
+B E T A E B H H A E
+A A T A B A T E H A 
+10 
+4
+ALPHA 
+BETA 
+GAMMA
+delta 
+A L P H A A L B H A 
+B O F L A A L E H A 
+B C P Z T A L T H A 
+G A d e l t a A a E
+e A e E B A L P H A 
+A L l H d A L P H A 
+B O t L A e L P H A 
+d E a Z T A l P H A 
+B E T A d B H t A E
+A A T A B A T E a A 
+10 
+3
+alpha 
+BETA 
+gamma 
+a l P H a a l p h a 
+B O F L A A L E H A 
+B C P a T A L T H A 
+G A M M l B H A A E
+A A T E B p L P H A 
+A L P g a m h a H A 
+B O F L A g L a H A 
+g a m m a A a P H A 
+B E T A E B H m A E
+A A T A B A T E m a

@@ -1,0 +1,19 @@
+The stack contains: 1 
+The stack contains: 2 1 
+The peeked node is: 2
+The stack contains: 5 2 1 
+The stack contains: 3 5 2 1 
+The stack contains: 3 3 5 2 1 
+The stack contains: 4 3 3 5 2 1 
+The stack contains: 5 4 3 3 5 2 1 
+The stack contains: 4 3 3 5 2 1 
+The stack contains: 3 3 5 2 1 
+The peeked node is: 3
+The stack contains: 3 5 2 1 
+The stack contains: 5 2 1 
+The peeked node is: 5
+The stack contains: 2 1 
+The stack contains: 1 
+The stack contains: 
+The stack is empty!
+The stack contains: 

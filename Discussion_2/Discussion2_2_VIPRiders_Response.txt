@@ -1,0 +1,9 @@
+This is a variation of the 0/1 Knapsack problem by replacing the value/weight pair with the revenue/mile pair.
+
+a). Hence, the first subproblem can be solved similarly to the classic 0/1 Knapsack problem using the Dynamic Programming Algorithm. In this case, the time complexity is O(N*W), where N denotes the number of rides and W denotes the mile limit because the algorithm will traverse all the miles by considering all possible rides.
+
+b). We need to record the number of rides selected in each combination. Also, when calculating the maximum possible revenue for any specific mile limit and ride, we should avoid select varieties whose number of rides selected is equal to the ride limit. Hence, this requires an extra recursive function to find the maximum revenue with fewer rides than the ride limit. The time complexity of this algorithm will be O(N*W)
+
+c). It is similar to the preceding problems. We can simply apply the same algorithms in groups of non-VIP riders and compare the maximum revenue from this group to the maximum payment any VIP rider could provide.
+
+d). The time complexity of all the algorithms is O(N*W).

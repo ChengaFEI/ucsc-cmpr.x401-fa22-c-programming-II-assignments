@@ -1,0 +1,3 @@
+Test case: 1 The max Value is: 500
+Test case: 2 The max Value is: 500
+Test case: 3 The max Value is: -1

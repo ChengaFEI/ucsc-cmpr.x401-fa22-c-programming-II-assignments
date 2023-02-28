@@ -1,0 +1,35 @@
+Test Case 0:
+1-way set associative: hits: 33 misses: 67
+2-way set associative: hits: 35 misses: 65
+4-way set associative: hits: 39 misses: 61
+8-way set associative: hits: 33 misses: 67
+Best scheme: 4-way set associative
+-------------------------------------------
+Test Case 1:
+1-way set associative: hits: 58 misses: 42
+2-way set associative: hits: 56 misses: 44
+4-way set associative: hits: 58 misses: 42
+8-way set associative: hits: 52 misses: 48
+Best scheme: 4-way set associative
+-------------------------------------------
+Test Case 2:
+1-way set associative: hits: 32 misses: 68
+2-way set associative: hits: 31 misses: 69
+4-way set associative: hits: 35 misses: 65
+8-way set associative: hits: 29 misses: 71
+Best scheme: 4-way set associative
+-------------------------------------------
+Test Case 3:
+1-way set associative: hits: 73 misses: 127
+2-way set associative: hits: 70 misses: 130
+4-way set associative: hits: 77 misses: 123
+8-way set associative: hits: 68 misses: 132
+Best scheme: 4-way set associative
+-------------------------------------------
+Test Case 4:
+1-way set associative: hits: 189 misses: 311
+2-way set associative: hits: 203 misses: 297
+4-way set associative: hits: 215 misses: 285
+8-way set associative: hits: 185 misses: 315
+Best scheme: 4-way set associative
+-------------------------------------------

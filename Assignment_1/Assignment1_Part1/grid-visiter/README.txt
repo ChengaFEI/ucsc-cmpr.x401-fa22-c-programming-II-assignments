@@ -1,0 +1,1 @@
+Please see the solution for problem 2.c in the grid-visitor.c file.

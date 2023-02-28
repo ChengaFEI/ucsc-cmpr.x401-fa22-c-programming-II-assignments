@@ -1,0 +1,28 @@
+Z 50
+T 100
+R 30
+P 80
+M 50
+E 70
+D 40
+C 30
+B 20
+A 10
+
+A is root: no
+Q is root: no
+M is root: yes
+A is leaf: no
+Z is leaf: yes
+Y is leaf: no
+
+Z 10
+T 100
+R 50
+P 80
+M 30
+E 70
+D 40
+C 30
+B 20
+A 50

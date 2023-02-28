@@ -1,0 +1,8 @@
+Test case 0 Total hits: 
+1-way: 33  2-way:37  4-way:42  8-way:33
+Test case 1 Total hits: 
+1-way: 58  2-way:58  4-way:58  8-way:54
+Test case 2 Total hits: 
+1-way: 32  2-way:32  4-way:36  8-way:30
+Test case 3 Total hits: 
+1-way: 73  2-way:77  4-way:85  8-way:68

@@ -1,0 +1,41 @@
+Test case 1:
+-----------------------------------------------------
+Integers in the queue: 1 
+Integers in the queue: 1 2 
+The size of the queue: 2
+Integers in the queue: 1 2 5 
+Integers in the queue: 1 2 5 3 
+Integers in the queue: 1 2 5 3 3 
+Integers in the queue: 1 2 5 3 3 4 
+Integers in the queue: 1 2 5 3 3 4 5 
+The size of the queue: 7
+Integers in the queue: 2 5 3 3 4 5 
+Integers in the queue: 5 3 3 4 5 
+The size of the queue: 5
+
+Test case 2:
+-----------------------------------------------------
+Integers in the queue: 1 
+Integers in the queue: 1 2 
+The size of the queue: 2
+Integers in the queue: 1 2 5 
+Integers in the queue: 1 2 5 3 
+Integers in the queue: 2 5 3 
+Integers in the queue: 5 3 
+Integers in the queue: 3 
+Integers in the queue: 3 3 
+Integers in the queue: 3 3 4 
+Integers in the queue: 3 3 4 5 
+The size of the queue: 4
+Integers in the queue: 3 4 5 
+Integers in the queue: 4 5 
+The size of the queue: 2
+Integers in the queue: 4 5 5 
+Integers in the queue: 4 5 5 5 
+Integers in the queue: 4 5 5 5 5 
+Integers in the queue: 4 5 5 5 5 5 
+Integers in the queue: 4 5 5 5 5 5 5 
+Integers in the queue: 4 5 5 5 5 5 5 5 
+Integers in the queue: 4 5 5 5 5 5 5 5 5 
+Integers in the queue: 4 5 5 5 5 5 5 5 5 5 
+The size of the queue: 10

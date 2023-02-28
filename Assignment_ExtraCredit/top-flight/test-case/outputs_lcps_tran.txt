@@ -1,0 +1,50 @@
+Finding the lowest cost path passing the transit vertex......
+-------------------------------------------------------------
+
+Graph 1:
+The lowest cost path: (destination) 4 <- 2 <- 1 <- 0 (origin)
+The lowest cost: 14
+
+Graph 2:
+The lowest cost path: (destination) 4 <- 2 <- 1 <- 0 (origin)
+The lowest cost: 15
+
+Graph 3:
+The lowest cost path: (destination) 4 <- 2 <- 1 <- 4 <- 2 (origin)
+The lowest cost: 14
+
+Graph 4:
+The lowest cost path: (destination) 4 <- 1 (origin)
+The lowest cost: 2
+
+Graph 5:
+The lowest cost path: (destination) 4 <- 2 <- 3 <- 1 <- 0 (origin)
+The lowest cost: 11
+
+Graph 6:
+The lowest cost path: (destination) 4 <- 2 <- 3 <- 1 <- 0 <- 4 <- 2 (origin)
+The lowest cost: 16
+
+Graph 7:
+The lowest cost path: (destination) 4 <- 2 <- 1 <- 2 <- 0 (origin)
+The lowest cost: 12
+
+Graph 8:
+The lowest cost path: (destination) 0 <- 4 <- 2 <- 1 <- 2 <- 0 <- 4 (origin)
+The lowest cost: 26
+
+Graph 9:
+The lowest cost path: (destination) 4 <- 3 <- 1 (origin)
+The lowest cost: 7
+
+Graph 10:
+The lowest cost path: (destination) 4 <- 1 (origin)
+The lowest cost: 3
+
+Graph 11:
+The lowest cost path: (destination) 4 <- 1 <- 2 (origin)
+The lowest cost: 4
+
+Graph 12:
+The lowest cost path: (destination) No path found (origin)
+

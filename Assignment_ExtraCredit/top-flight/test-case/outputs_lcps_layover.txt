@@ -1,0 +1,61 @@
+Finding the lowest cost path with minimum layovers......
+--------------------------------------------------------
+
+Graph 1:
+The lowest cost path: (destination) 4 <- 2 <- 1 <- 0 (origin)
+The lowest cost: 14
+The number of layovers: 3
+
+Graph 2:
+The lowest cost path: (destination) 4 <- 3 <- 0 (origin)
+The lowest cost: 15
+The number of layovers: 2
+
+Graph 3:
+The lowest cost path: (destination) 4 <- 2 (origin)
+The lowest cost: 4
+The number of layovers: 1
+
+Graph 4:
+The lowest cost path: (destination) 4 <- 1 (origin)
+The lowest cost: 2
+The number of layovers: 1
+
+Graph 5:
+The lowest cost path: (destination) 4 <- 3 <- 0 (origin)
+The lowest cost: 11
+The number of layovers: 2
+
+Graph 6:
+The lowest cost path: (destination) 4 <- 2 (origin)
+The lowest cost: 2
+The number of layovers: 1
+
+Graph 7:
+The lowest cost path: (destination) 4 <- 2 <- 0 (origin)
+The lowest cost: 7
+The number of layovers: 2
+
+Graph 8:
+The lowest cost path: (destination) 0 <- 4 (origin)
+The lowest cost: 7
+The number of layovers: 1
+
+Graph 9:
+The lowest cost path: (destination) 4 <- 3 <- 1 (origin)
+The lowest cost: 7
+The number of layovers: 2
+
+Graph 10:
+The lowest cost path: (destination) 4 <- 1 (origin)
+The lowest cost: 3
+The number of layovers: 1
+
+Graph 11:
+The lowest cost path: (destination) 4 <- 1 <- 2 (origin)
+The lowest cost: 4
+The number of layovers: 2
+
+Graph 12:
+The lowest cost path: (destination) No path found (origin)
+

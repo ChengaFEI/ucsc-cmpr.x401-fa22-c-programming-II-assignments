@@ -1,0 +1,6 @@
+Time complexity analysis:
+
+insert()     -- O(1)
+deleteTail() -- O(1)
+merge()      -- O(n)
+print()      -- O(n)

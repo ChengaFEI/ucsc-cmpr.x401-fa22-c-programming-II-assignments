@@ -1,0 +1,8 @@
+Test case: 0
+Max points collected: 28
+Test case: 1
+Max points collected: 10
+Test case: 2
+Max points collected: 15
+Test case: 3
+Max points collected: 0

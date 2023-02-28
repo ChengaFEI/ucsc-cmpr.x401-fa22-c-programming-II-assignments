@@ -1,0 +1,1 @@
+Pick one of the data structures that we have discussed in class and check research papers to determine how the data structure has been improved. Present your findings in 4 to 5 slides on the discussion forum. Include your references on the slides.

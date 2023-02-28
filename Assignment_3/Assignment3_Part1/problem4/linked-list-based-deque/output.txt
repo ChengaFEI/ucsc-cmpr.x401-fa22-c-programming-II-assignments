@@ -1,0 +1,47 @@
+Test Case 1:
+--------------------------------
+The items in the doubly linked list are: 7 
+The items in the doubly linked list are: 6 7 
+The items in the doubly linked list are: 7 6 7 
+The items in the doubly linked list are: 8 7 6 7 
+The items in the doubly linked list are: 7 6 7 
+The items in the doubly linked list are: 6 7 
+
+Test Case 2:
+--------------------------------
+The items in the doubly linked list are: 7 
+The items in the doubly linked list are: 7 6 
+The items in the doubly linked list are: 7 6 7 
+The items in the doubly linked list are: 7 6 7 8 
+The items in the doubly linked list are: 6 7 8 
+The items in the doubly linked list are: 7 8 
+The items in the doubly linked list are: 7 
+The items in the doubly linked list are: (empty)
+
+Test Case 3:
+--------------------------------
+The items in the doubly linked list are: 2 
+The items in the doubly linked list are: 2 6 
+The items in the doubly linked list are: 2 
+The items in the doubly linked list are: (empty)
+The items in the doubly linked list are: 8 
+The items in the doubly linked list are: 9 8 
+The items in the doubly linked list are: 8 
+
+Test Case 4:
+--------------------------------
+Error popping the deque.
+Error ejecting the deque.
+The items in the doubly linked list are: 2 
+The items in the doubly linked list are: 3 2 
+The items in the doubly linked list are: 4 3 2 
+The items in the doubly linked list are: 5 4 3 2 
+The items in the doubly linked list are: 6 5 4 3 2 
+The items in the doubly linked list are: 7 6 5 4 3 2 
+The items in the doubly linked list are: 8 7 6 5 4 3 2 
+The items in the doubly linked list are: 9 8 7 6 5 4 3 2 
+The items in the doubly linked list are: 9 8 7 6 5 4 3 2 5 
+The items in the doubly linked list are: 8 7 6 5 4 3 2 5 
+The items in the doubly linked list are: 7 6 5 4 3 2 5 
+The items in the doubly linked list are: 7 6 5 4 3 2 
+The items in the doubly linked list are: 7 6 5 4 3 

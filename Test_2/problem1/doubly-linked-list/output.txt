@@ -1,0 +1,15 @@
+Nodes in the list: 19 
+Nodes in the list: 6 19 
+Nodes in the list: 3 6 19 
+Nodes in the list: 1 3 6 19 
+Nodes in the list: 17 1 3 6 19 
+Nodes in the list: 8 17 1 3 6 19 
+Nodes in the list: 40 8 17 1 3 6 19 
+Nodes in the list: 5 40 8 17 1 3 6 19 
+Nodes in the list: 20 5 40 8 17 1 3 6 19 
+Nodes in the list: 10 20 5 40 8 17 1 3 6 19 
+Nodes in the list: 10 25 40 25 1 3 25 
+Nodes in the list: 10 65 25 1 3 25 
+Nodes in the list: 10 65 25 4 25 
+Nodes in the list: 10 65 25 4 
+Nodes in the list: 10 65 25 

@@ -1,0 +1,11 @@
+The program output carries 50% of the points for that problem. No points will be awarded if the program does not compile. 
+
+Rubric for all programming problems:
+
+50%  The program output is attached for each problem. If test cases are provided, all test cases execute correctly; otherwise, statements are added for testing or input validation in the program.
+
+30% The program uses efficient data structures and algorithms to solve the problem.
+
+10% The program is indented correctly. 
+
+10% A description of the functions and program variables in the program is provided.

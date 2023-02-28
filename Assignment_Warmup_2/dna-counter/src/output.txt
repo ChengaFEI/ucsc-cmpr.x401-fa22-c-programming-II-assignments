@@ -1,0 +1,10 @@
+Test case 1 Max number of codons is 4
+Test case 2 Max number of codons is 4
+Test case 3 Max number of codons is 3
+Test case 4 Max number of codons is 7
+Test case 5 Max number of codons is 2
+Test case 6 Max number of codons is 0
+Test case 7 Max number of codons is 3
+Test case 8 Max number of codons is 0
+Test case 9 Max number of codons is 0
+Test case 10 Max number of codons is 6
